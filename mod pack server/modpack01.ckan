@@ -1,0 +1,229 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "install--portable",
+    "name": "installé-portable",
+    "abstract": "Une liste des modules installés sur l'instance KSP portable",
+    "author": [
+        "babou"
+    ],
+    "version": "2023.04.18.09.38.06",
+    "ksp_version_min": "1.12.5",
+    "ksp_version_max": "1.12.5",
+    "license": [
+        "unknown"
+    ],
+    "depends": [
+        {
+            "name": "ASETAgency"
+        },
+        {
+            "name": "ASETAvionics"
+        },
+        {
+            "name": "ASETProps"
+        },
+        {
+            "name": "Astrogator"
+        },
+        {
+            "name": "AviationLights"
+        },
+        {
+            "name": "AvionicsSystems"
+        },
+        {
+            "name": "BDArmoryExtended"
+        },
+        {
+            "name": "BDArmoryMultiplayer"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "CommunityCategoryKit"
+        },
+        {
+            "name": "CommunityPartsTitles"
+        },
+        {
+            "name": "CommunityPartsTitlesExtrasCategory"
+        },
+        {
+            "name": "CommunityPartsTitlesExtrasNoCCKDup"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "CommunityTerrainTexturePack"
+        },
+        {
+            "name": "CustomPreLaunchChecks"
+        },
+        {
+            "name": "DE-IVAExtension"
+        },
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "DistantObject-default"
+        },
+        {
+            "name": "DockingCamKURS"
+        },
+        {
+            "name": "DockingPortAlignmentIndicator"
+        },
+        {
+            "name": "EasyVesselSwitch"
+        },
+        {
+            "name": "EditorExtensionsRedux"
+        },
+        {
+            "name": "EuropeanSpaceAgencyRocketKit"
+        },
+        {
+            "name": "FerramAerospaceResearchContinued"
+        },
+        {
+            "name": "FilterExtensions"
+        },
+        {
+            "name": "FirespitterCore"
+        },
+        {
+            "name": "FreeIva"
+        },
+        {
+            "name": "HangerExtenderExtended"
+        },
+        {
+            "name": "Harmony2"
+        },
+        {
+            "name": "HullcamVDSContinued"
+        },
+        {
+            "name": "JanitorsCloset"
+        },
+        {
+            "name": "KAS"
+        },
+        {
+            "name": "KerbalJointReinforcementNext"
+        },
+        {
+            "name": "KerbalKonstructs"
+        },
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "kOS"
+        },
+        {
+            "name": "kOS-Astrogator"
+        },
+        {
+            "name": "kRPC"
+        },
+        {
+            "name": "kRPC-MechJeb"
+        },
+        {
+            "name": "KSAIVAUpgrade"
+        },
+        {
+            "name": "KSCPlusPlus"
+        },
+        {
+            "name": "KSCSwitcher"
+        },
+        {
+            "name": "KSP-Recall"
+        },
+        {
+            "name": "KSPBurst"
+        },
+        {
+            "name": "KSPCommunityFixes"
+        },
+        {
+            "name": "KSPWheel"
+        },
+        {
+            "name": "LunaMultiplayer"
+        },
+        {
+            "name": "MechJeb2"
+        },
+        {
+            "name": "MK12PodIVAReplacementbyASET"
+        },
+        {
+            "name": "Mk1CockpitIVAReplbyASET"
+        },
+        {
+            "name": "Mk1LanderCanIVAReplbyASET"
+        },
+        {
+            "name": "Mk3ShuttleMidDeckIVARefurbished"
+        },
+        {
+            "name": "ModularFlightIntegrator"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RasterPropMonitor"
+        },
+        {
+            "name": "RasterPropMonitor-Core"
+        },
+        {
+            "name": "RealChute"
+        },
+        {
+            "name": "ReStock"
+        },
+        {
+            "name": "ReStockPlus"
+        },
+        {
+            "name": "ShuttleLiftingBodyCormorantAeronology"
+        },
+        {
+            "name": "SpaceTuxLibrary"
+        },
+        {
+            "name": "SpeedUnitAnnex"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "TweakScale-Redist"
+        },
+        {
+            "name": "VesselMoverContinued"
+        },
+        {
+            "name": "VesselView"
+        },
+        {
+            "name": "VesselView-UI-RasterPropMonitor"
+        },
+        {
+            "name": "VesselView-UI-Toolbar"
+        }
+    ],
+    "release_date": "2023-04-18T23:38:06.2426672+02:00",
+    "kind": "metapackage"
+}
